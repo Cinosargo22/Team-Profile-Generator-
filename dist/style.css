@@ -3,7 +3,7 @@
 }
 
 :root {
-    --primary: lightslategray;
+    --primary: rgb(207, 50, 36);
     --secondary: white;
 }
 
@@ -23,7 +23,7 @@ body {
 
 
 .card-header {
-    background-color: var(--primary);
+    background-color: rgb(40, 111, 235);
     color: var(--secondary);
 }
 
