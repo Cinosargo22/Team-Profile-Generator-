@@ -4,25 +4,25 @@
     "description": "app to create team profile generator ",
     "main": "index.js",
     "directories": {
-      "lib": "lib"
+        "lib": "lib"
     },
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "repository": {
-      "type": "git",
-      "url": ""
+        "type": "git",
+        "url": "https://github.com/Cinosargo22/Team-Profile-Generator-"
     },
     "author": "Andres Covas",
     "license": "ISC",
     "bugs": {
-      "url": ""
+        "url": "https://github.com/Cinosargo22/Team-Profile-Generator-/issues"
     },
-    "homepage": "",
+    "homepage": "https://github.com/Cinosargo22/Team-Profile-Generator-/blob/main/README.md",
     "devDependencies": {
-      "jest": "^26.0.1"
+        "jest": "^26.0.1"
     },
     "dependencies": {
-      "inquirer": "^7.1.0"
+        "inquirer": "^8.2.4"
     }
-  }
+}
